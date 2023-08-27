@@ -1,0 +1,27 @@
+<products>
+    <product>
+      <id>1</id>
+      <name>Programming in Python</name>
+      <price>39.99</price>
+      <description>Comprehensive guide to Python programming.</description>
+    </product>
+    <product>
+      <id>2</id>
+      <name>The Great Gatsby</name>
+      <price>12.99</price>
+      <description>Classic novel by F. Scott Fitzgerald.</description>
+    </product>
+    <product>
+      <id>3</id>
+      <name>Men's Casual Shirt</name>
+      <price>29.99</price>
+      <description>Comfortable and stylish shirt for men.</description>
+    </product>
+    <product>
+      <id>4</id>
+      <name>Women's Jeans</name>
+      <price>49.99</price>
+      <description>Durable and fashionable jeans for women.</description>
+    </product>
+  </products>
+  
